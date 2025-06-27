@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Thandolwethu Mangesana
 
-It is good to have you here:)
+😊 It is good to have you here:)
 
 🌱 Junnior Software Developer | 🚀 Excited to Learn & Build
 
