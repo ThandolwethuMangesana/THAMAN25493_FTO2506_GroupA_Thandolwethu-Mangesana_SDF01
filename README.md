@@ -1,8 +1,8 @@
-# [SDF01] Challenge: My First Repo 🚀
+# 👋 Welcome, I'm Thandolwethu Mangesana
 
-# 👋 Hi, I'm [Your Name]
+It is good to have you here:)
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Junnior Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
@@ -11,6 +11,7 @@
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
+- 👨‍💻 Learning by building projects and growing daily in software development.
 - 🔥 Looking forward to building my first real-world application.
 
 ---
@@ -22,10 +23,11 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3),
 
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
@@ -36,6 +38,7 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- ⌚ Time Management
 
 ---
 
@@ -66,18 +69,18 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ThandolwethuMangesana)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Thandolwethu-Mangesana)  
+📧 Email: [mangesanathandolwethu@gmail.com](mailto:mangesanathandolwethu@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I’m all about unconventional ideas and learning by experimenting!
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThandolwethuMangesana&show_icons=true&theme=radical)
